@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical6</string>
+    <string name="username_text">Username</string>
+    <string name="description_text">Description</string>
+</resources>
